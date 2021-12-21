@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+
+body{
+    font-size:20x;
+    font-family:'PT Sans Narrow', sans-serif;;
+    line-height: 20px;
+    /* min-width: 100px ;
+    max-width:600px ;
+    text-align:left; */
+}
+main div{
+    padding: 0 400px;
+    min-width: 100px ;
+    max-width:600px ;
+    text-align:left; 
+    color: rgb(5, 5, 5);
+}
+ main h1{
+    text-align: center;
+    color: rgb(5, 5, 5);
+}
+main h2{
+    padding:0px 400px;
+    color: black;
+}
+main h3{
+    padding:0px 400px;
+    color:  grey;
+}
+main img{
+    width: 300px;
+    padding:0px 400px;
+}
+.footer span{
+    display: block;
+    font-size: 35px;
+    padding:30px 400px 0 400px;
+    width: 600px;
+}
+.pfooter{
+    display:block;
+    padding:0px 400px;
+    font-size: 25px;
+    color:#000;
+}
+.foter{
+    color: rgb(5, 5, 5);
+    font-size: 35px;
+    padding:30px 400px 0 400px;
+    width: 600px;
+}
+.terfoo{
+    font-size: 25px;
+    color:black;
+}
+
+
+
+
